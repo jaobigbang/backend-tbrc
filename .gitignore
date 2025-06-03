@@ -7,7 +7,7 @@ __pycache__/
 
 # โฟลเดอร์เสริม
 .env
-venv/
+.venv/
 
 # ไฟล์จาก IDE
 .vscode/
