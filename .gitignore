@@ -1,0 +1,21 @@
+# ไฟล์หรือโฟลเดอร์ทั่วไปที่ไม่ควรติดตาม
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.swp
+
+# โฟลเดอร์เสริม
+.env
+venv/
+
+# ไฟล์จาก IDE
+.vscode/
+
+# ไฟล์ระบบ
+.DS_Store
+
+blast/
+old/
+ingest_data/
+auth/
